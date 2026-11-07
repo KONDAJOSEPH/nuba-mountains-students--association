@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="NUMSAU logo"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6C453"/><stop offset="1" stop-color="#FBE3A6"/></linearGradient><clipPath id="c"><circle cx="64" cy="64" r="52"/></clipPath></defs>
+<circle cx="64" cy="64" r="62" fill="#0F3D2E"/><circle cx="64" cy="64" r="58" fill="none" stroke="#F6C453" stroke-width="3"/>
+<g clip-path="url(#c)"><rect width="128" height="128" fill="url(#sky)"/><circle cx="84" cy="42" r="12" fill="#E8832A"/>
+<path d="M6 92 Q22 34 44 62 Q58 28 76 60 Q92 40 122 92Z" fill="#3F8A58"/><path d="M-4 100 Q30 58 56 78 Q84 50 132 100Z" fill="#1F6B4A"/><rect y="92" width="128" height="40" fill="#0F3D2E"/></g>
+<path d="M30 84 Q47 78 64 86 Q81 78 98 84 V102 Q81 96 64 104 Q47 96 30 102Z" fill="#FBF6EA" stroke="#E8832A" stroke-width="2.5" stroke-linejoin="round"/><path d="M64 86 V104" stroke="#E8832A" stroke-width="2.5"/>
+<path d="M64 14 l3 7 7 .6 -5.4 4.7 1.7 7 -6.3 -3.8 -6.3 3.8 1.7 -7 -5.4 -4.7 7 -.6z" fill="#F6C453"/></svg>
